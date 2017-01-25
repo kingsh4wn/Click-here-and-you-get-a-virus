@@ -1,0 +1,469 @@
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+
+
+Affected Room - ID: 133 - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Plus.HabboHotel.Rooms.RoomUserManager.OnCycle() in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\RoomUserManager.cs:line 785
+

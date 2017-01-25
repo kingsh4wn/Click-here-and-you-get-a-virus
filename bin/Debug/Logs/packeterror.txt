@@ -1,0 +1,18 @@
+
+Error in packet [1172] BODY: [0]:creategang 5[0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Roleplay.Gangs.CreateGangCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\Chat\Commands\Roleplay\Gangs\CreateGangCommand.cs:line 50
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 116
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Funto\Documents\21.01.17 RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 80
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Funto\Documents\21.01.17 RP\Communication\Packets\PacketManager.cs:line 153
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\GameClients\GameClient.cs:line 73
+
+
+Error in packet [1172] BODY: [0]:creategang Velasi[0][0][0][0][0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Plus.HabboHotel.Rooms.Chat.Commands.Roleplay.Gangs.CreateGangCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\Chat\Commands\Roleplay\Gangs\CreateGangCommand.cs:line 65
+   at Plus.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 116
+   at Plus.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Funto\Documents\21.01.17 RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 80
+   at Plus.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Funto\Documents\21.01.17 RP\Communication\Packets\PacketManager.cs:line 153
+   at Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Funto\Documents\21.01.17 RP\HabboHotel\GameClients\GameClient.cs:line 73
+

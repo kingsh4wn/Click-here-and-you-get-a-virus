@@ -1,0 +1,72 @@
+
+Error in query: 
+INSERT INTO rp_gangs (name, owner_id, kills, deaths, jailbreaks, turfcaps, gangxp) VALUES (@gangname, @gangowner, @kills, @deaths, @jailbreaks, @turfcaps, @gangxp)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Field 'id' doesn't have a default value
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Funto\Documents\21.01.17 RP\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `users` SET `online` = '0', `last_online` = '1485364979.81585', `activity_points` = '16980', `credits` = '5223', `vip_points` = '0', `home_room` = '0', `gotw_points` = '0', `time_muted` = '0',`friend_bar_state` = '0',          `hp` = `100`, `maxhp' = '100', `kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `damagegiven` = `0`,`bankbalance` = `0`, `deaths` = `0`, `rpclass` = `Civilian`, `isarrested` = `False`, `gangid` = `0`, `gangrank` = `2`,`jobid` = `4`,`jobrank` = `20`,`strength` = `0`, `strengthxp` = `0`, `intelligence` = `0`,`intelligencexp` = `0`, `gymli` = `False`, `hasajob` = `True`,`hasablade` = `False`,`haswood` = `False`, `madeknife` = `True`, `isdead` = `False`, `isjailed` = `False`, `isworking` = `False`,`isworkingout` = `False`, `vests` = `0`, `shifts` = `19`, `weed` = `29`, `iswanted` = `False`,`hasbounty` = `False`,`bountyamount` = `0`, `storerobs` = `0`, `madebat` = `False`, `strengthxpneeded` = `0` WHERE id = '117' LIMIT 1;UPDATE `user_stats` SET `roomvisits` = '15', `onlineTime` = '23738.4637069702', `respect` = '0', `respectGiven` = '0', `giftsGiven` = '0', `giftsReceived` = '0', `dailyRespectPoints` = '20', `dailyPetRespectPoints` = '20', `AchievementScore` = '225', `quest_id` = '0', `quest_progress` = '0', `groupid` = '0',`forum_posts` = '0',   WHERE `id` = '117' LIMIT 1;
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Funto\Documents\21.01.17 RP\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+INSERT INTO rp_gangs (name, owner_id, kills, deaths, jailbreaks, turfcaps, gangxp) VALUES (@gangname, @gangowner, @kills, @deaths, @jailbreaks, @turfcaps, @gangxp)
+MySql.Data.MySqlClient.MySqlException (0x80004005): Duplicate entry '0' for key 'PRIMARY'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Funto\Documents\21.01.17 RP\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `users` SET `online` = '0', `last_online` = '1485365326.01371', `activity_points` = '16980', `credits` = '5223', `vip_points` = '0', `home_room` = '0', `gotw_points` = '0', `time_muted` = '0',`friend_bar_state` = '0',          `hp` = `100`, `maxhp' = '100', `kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `damagegiven` = `0`,`bankbalance` = `0`, `deaths` = `0`, `rpclass` = `Civilian`, `isarrested` = `False`, `gangid` = `0`, `gangrank` = `2`,`jobid` = `4`,`jobrank` = `20`,`strength` = `0`, `strengthxp` = `0`, `intelligence` = `0`,`intelligencexp` = `0`, `gymli` = `False`, `hasajob` = `True`,`hasablade` = `False`,`haswood` = `False`, `madeknife` = `True`, `isdead` = `False`, `isjailed` = `False`, `isworking` = `False`,`isworkingout` = `False`, `vests` = `0`, `shifts` = `19`, `weed` = `29`, `iswanted` = `False`,`hasbounty` = `False`,`bountyamount` = `0`, `storerobs` = `0`, `madebat` = `False`, `strengthxpneeded` = `0` WHERE id = '117' LIMIT 1;UPDATE `user_stats` SET `roomvisits` = '15', `onlineTime` = '23751.0736060143', `respect` = '0', `respectGiven` = '0', `giftsGiven` = '0', `giftsReceived` = '0', `dailyRespectPoints` = '20', `dailyPetRespectPoints` = '20', `AchievementScore` = '225', `quest_id` = '0', `quest_progress` = '0', `groupid` = '0',`forum_posts` = '0',   WHERE `id` = '117' LIMIT 1;
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery() in C:\Users\Funto\Documents\21.01.17 RP\Database\Adapter\QueryAdapter.cs:line 177
+
+
+Error in query: 
+UPDATE `users` SET `online` = '0', `last_online` = '1485365549.07297', `activity_points` = '16980', `credits` = '5223', `vip_points` = '0', `home_room` = '0', `gotw_points` = '0', `time_muted` = '0',`friend_bar_state` = '0',          `hp` = `100`, `maxhp' = '100', `kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `damagegiven` = `0`,`bankbalance` = `0`, `deaths` = `0`, `rpclass` = `Civilian`, `isarrested` = `False`, `gangid` = `1`, `gangrank` = `2`,`jobid` = `4`,`jobrank` = `20`,`strength` = `0`, `strengthxp` = `0`, `intelligence` = `0`,`intelligencexp` = `0`, `gymli` = `False`, `hasajob` = `True`,`hasablade` = `False`,`haswood` = `False`, `madeknife` = `True`, `isdead` = `False`, `isjailed` = `False`, `isworking` = `False`,`isworkingout` = `False`, `vests` = `0`, `shifts` = `19`, `weed` = `29`, `iswanted` = `False`,`hasbounty` = `False`,`bountyamount` = `0`, `storerobs` = `0`, `madebat` = `False`, `strengthxpneeded` = `0` WHERE id = '117' LIMIT 1;UPDATE `user_stats` SET `roomvisits` = '15', `onlineTime` = '23779.920842886', `respect` = '0', `respectGiven` = '0', `giftsGiven` = '0', `giftsReceived` = '0', `dailyRespectPoints` = '20', `dailyPetRespectPoints` = '20', `AchievementScore` = '225', `quest_id` = '0', `quest_progress` = '0', `groupid` = '0',`forum_posts` = '0',   WHERE `id` = '117' LIMIT 1;
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery()
+
+
+Error in query: 
+UPDATE `users` SET `online` = '0', `last_online` = '1485367650.39181', `activity_points` = '17180', `credits` = '5423', `vip_points` = '0', `home_room` = '0', `gotw_points` = '0', `time_muted` = '0',`friend_bar_state` = '0',          `hp` = `100`, `maxhp' = '100', `kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `damagegiven` = `0`,`bankbalance` = `0`, `deaths` = `0`, `rpclass` = `Civilian`, `isarrested` = `False`, `gangid` = `1`, `gangrank` = `2`,`jobid` = `4`,`jobrank` = `20`,`strength` = `0`, `strengthxp` = `0`, `intelligence` = `0`,`intelligencexp` = `0`, `gymli` = `False`, `hasajob` = `True`,`hasablade` = `False`,`haswood` = `False`, `madeknife` = `True`, `isdead` = `False`, `isjailed` = `False`, `isworking` = `False`,`isworkingout` = `False`, `vests` = `0`, `shifts` = `19`, `weed` = `29`, `iswanted` = `False`,`hasbounty` = `False`,`bountyamount` = `0`, `storerobs` = `0`, `madebat` = `False`, `strengthxpneeded` = `0` WHERE id = '117' LIMIT 1;UPDATE `user_stats` SET `roomvisits` = '15', `onlineTime` = '25635.9296507835', `respect` = '0', `respectGiven` = '0', `giftsGiven` = '0', `giftsReceived` = '0', `dailyRespectPoints` = '20', `dailyPetRespectPoints` = '20', `AchievementScore` = '225', `quest_id` = '0', `quest_progress` = '0', `groupid` = '0',`forum_posts` = '0',   WHERE `id` = '117' LIMIT 1;
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kills` = `0`, `hitsgiven` = `0`, `hitsrecieved` = `0`, `damagerecieved` = `0`, `' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Plus.Database.Adapter.QueryAdapter.RunQuery()
+
